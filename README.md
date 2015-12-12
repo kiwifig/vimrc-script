@@ -1,2 +1,2 @@
 # vimrc-script
-![image](file:///./screen_snapshot.jpg)
+![image](https://github.com/kiwifig/vimrc-script/blob/master/screen_snapshot.png)
